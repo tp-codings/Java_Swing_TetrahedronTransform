@@ -11,7 +11,7 @@ With this program, a tetrahedron in three-dimensional space can be transformed. 
 
 | Personal Rating | Year of Development | Languages | Tools | Type of Application |
 | --- | --- | --- | --- | --- |
-| ⭐️⭐️⭐️ (3/5) | 2023 | Java | Swing | Simulation |
+| ⭐️⭐️⭐️ (3/5) | 2023 | Java | Swing | Visualization |
 
 # Getting Started
 
