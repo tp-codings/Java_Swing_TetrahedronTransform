@@ -25,7 +25,7 @@ With this program, a tetrahedron in three-dimensional space can be transformed. 
 ## Installation
 
 1. Clone Repository
-`git clone https://github.com/tp-codings/Java_Swing_TetraederTransform.git`
+`git clone https://github.com/tp-codings/Java_Swing_TetrahedronTransform.git`
 2. Run `javac TetraederTransform.java`
 
 ## Examples
